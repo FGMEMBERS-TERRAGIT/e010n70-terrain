@@ -1,0 +1,5 @@
+OBJECT_BASE 3222008.btg
+OBJECT ENSA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.711413 77.894480 12.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 16.734808 77.898582 9.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 16.718435 77.897210 15.3 0.00
